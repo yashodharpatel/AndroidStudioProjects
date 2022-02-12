@@ -1,0 +1,2 @@
+rootProject.name = "RemoteVideoApp"
+include ':app'

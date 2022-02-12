@@ -1,0 +1,2 @@
+rootProject.name = "UIColorPicker"
+include ':app'
